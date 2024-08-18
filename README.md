@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Leonardo Mello 👋
 
-<!--
-**leo-mello/leo-mello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About 🏷️
+I'm a Full-Stack Developer!
 
-Here are some ideas to get you started:
+### Current stacks 🗃️
+- Main language: `JavaScript`
+- Backend: `Nodejs`
+- Frontend: `React`, `HTML`, `CSS`, `TypeScript`, `JavaScript`
+- Database: `MySQL/MariaDB`
+- Design: `Figma`
+- Version code control: `Git & Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts 📱
+
+- Email: mello.leosouza@gmail.com
+  
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leops-mello)
